@@ -1,0 +1,7 @@
+{
+  "name": "Eat Whattt",
+  "description": "A premium food recommendation app to solve decision fatigue.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
